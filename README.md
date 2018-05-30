@@ -6,6 +6,6 @@ This app uses the [Xamarin Media Plugin](https://www.nuget.org/packages/Xam.Plug
 
 ## To use this app
 
-1. Head to the [Azure Cognitive Services](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/) site and click the __Try the Computer Vision API__ button.
+1. Head to the [Azure Cognitive Services](https://azure.microsoft.com/services/cognitive-services/computer-vision/?WT.mc_id=imperial-github-jabenn) site and click the __Try the Computer Vision API__ button.
 2. Log in with an appropriate provider, and get an API key.
 3. Open the solution and head to the `MainViewModel` class in the `PhotoDescriber` project. In the constructor where the `ApiKeyServiceClientCredentials` is created, change `<your key here>` to your API key.
